@@ -1,4 +1,4 @@
-# Generative_ChatBot
+# Conversational_AI_ChatBot
 Conversation ChatBot using Recurrent Sequence-to-Sequence model <br />
 Base research Paper: https://arxiv.org/abs/1506.05869 <br />
 Dataset: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html <br />
